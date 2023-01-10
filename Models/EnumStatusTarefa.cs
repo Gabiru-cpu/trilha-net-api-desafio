@@ -1,4 +1,4 @@
-namespace TrilhaApiDesafio.Models
+namespace trilhaNetApiDesafio7._0.Models
 {
     public enum EnumStatusTarefa
     {

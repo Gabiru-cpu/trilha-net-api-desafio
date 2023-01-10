@@ -1,6 +1,6 @@
 using System.Text.Json.Serialization;
 using Microsoft.EntityFrameworkCore;
-using TrilhaApiDesafio.Context;
+using trilhaNetApiDesafio7._0.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
